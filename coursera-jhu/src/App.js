@@ -17,8 +17,7 @@ Does anyone know how I can give this course 6
 out of 5 stars?
 </div>
 <div>
-Thank you,
--Yaakov.... I mean a random student! Definitely not Yaakov.
+Thank you,-Yaakov.... I mean a random student! Definitely not Yaakov.&copy;2024
 </div>
     </div>
   );
